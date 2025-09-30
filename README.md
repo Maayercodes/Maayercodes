@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Maayer Hassan</h1>
-<h3 align="center">A passionate student of Artificial Intelligence with over 1 years of experience in Python programming. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.</h3>
+<h3 align="center">
+An AI & Python developer passionate about building smart, real-world solutions.
+With 1+ year of experience in Python and a growing expertise in Data Science & Machine Learning,
+I love writing clean, efficient code and tackling new challenges 🚀
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maayercodes&label=Profile%20views&color=0e75b6&style=flat" alt="maayercodes" /> </p>
 
@@ -7,19 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/maayer hassan" target="blank"><img src="https://img.shields.io/twitter/follow/maayer hassan?logo=twitter&style=for-the-badge" alt="maayer hassan" /></a> </p>
 
-- 🔭 I’m currently working on **simple browser using oop**
+- 🔭 Currently building **an AI Solutions**
+- 🌱 Passionate in**Flask, Django & DSA**
+- 👯 Open to collaborate on interesting **AI, ML & Python projects**
+- 💬 Ask me about **Machine Learning & Artificial Intelligence**
+- 👨‍💻 All of my projects are available at [github.com/Maayercodes](https://github.com/Maayercodes)
+- 📫 Reach me at **hassanmaayer@gmail.com**
 
-- 🌱 I’m currently learning **flask,django,DSA**
-
-- 👯 I’m looking to collaborate on [hassan the passionate](https://github.com/HassanThePassionate/HassanThePassionate)
-
-- 🤝 I’m looking for help with [adress book in oop](https://github.com/HassanThePassionate/HassanThePassionate)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Maayercodes](https://github.com/Maayercodes)
-
-- 💬 Ask me about **machine learning,Artificial intelligence**
-
-- 📫 How to reach me **hassanmaayer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
